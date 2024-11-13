@@ -1,0 +1,6 @@
+void main {
+	bool p, q, r;
+	p := true;
+	q := false;
+	r := p + q;
+} //comment

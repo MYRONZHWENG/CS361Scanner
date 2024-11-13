@@ -1,0 +1,16 @@
+// Missing tests
+
+// Lexical errors
+2.5 // we do not understand .
+:
+=
+\
+[
+]
+
+// Identifier
+Xy1 // Capital first letter
+
+// tests influenced from other languages
+1,000,000	// Literal separator literal separator literal
+/* test */	// operator operator identifier operator operator

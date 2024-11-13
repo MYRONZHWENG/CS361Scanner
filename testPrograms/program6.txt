@@ -1,0 +1,1 @@
+main{bool p,q,r;integer x;p:=true;q:=false;r:=p+q;x=2}

@@ -1,0 +1,7 @@
+main {
+	bool p, q, r; //comment1
+	//comment2
+	p := true; //comment+++
+	q := false; //comment&=
+	r := p + q; //comment||
+}

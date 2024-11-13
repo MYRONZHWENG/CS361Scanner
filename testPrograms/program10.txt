@@ -1,0 +1,12 @@
+// lexical errors
+= // Other - not recognized
+3aaa2!=44444 // lexical error for 3aaa2 
+@ // lexical error Other
+& // lexical error
+| // lexical error
+1!==3 // literal(1) operator (!=) other(=) literal (3)
+
+
+
+//what???/
+/*what*/

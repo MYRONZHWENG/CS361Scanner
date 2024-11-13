@@ -1,0 +1,7 @@
+// keywords
+bool 
+else
+if
+integer
+main
+while

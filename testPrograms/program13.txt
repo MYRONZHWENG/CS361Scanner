@@ -1,0 +1,25 @@
+// Negative numbers
+!5 // operator literal
+
+!== // operator(!=) other(=)
+
+// This is not a Kay program but it is good for testing purposes
+void main(){
+int i;
+i = 7;
+}
+
+// void identifier
+// main keyword
+// ( separator
+// ) separator
+// { separator
+// int identifier
+// i identifier
+// ; separator
+// i identifier
+// = other
+// 7 literal
+// ; separator
+// } separator 
+
