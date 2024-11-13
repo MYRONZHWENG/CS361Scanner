@@ -6,7 +6,7 @@
 public class ScannerDemo {
 
 	// This needs to be changed !
-	private static String file1 = "/Users/myron_zun_hao_weng/Desktop/Pace/Classes/2024 - 2025/Fall 2025/CS 361/HW5/GitHub/CS361Scanner/testPrograms/prog3.kay"; //string form of directory to file
+	private static String file1 = "/Users/myron_zun_hao_weng/Desktop/Pace/Classes/2024 - 2025/Fall 2025/CS 361/HW5/GitHub/CS361Scanner/testPrograms/prog1.kay"; //string form of directory to file
 	private static int counter = 1;
 
 	public static void main(String args[]) {
