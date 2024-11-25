@@ -1,7 +1,10 @@
 main {
 	bool p, q, r; //comment1
 	//comment2
-	p := true; //comment+++
-	q := false; //comment&=
+	p := True; //comment+++
+	q := False; //comment&=
 	r := p + q; //comment||
+	if (p == True) {
+		p := !p;
+	}
 }
